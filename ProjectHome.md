@@ -1,0 +1,1 @@
+This project has moved to Bitbucket; its new home is [here](http://bitbucket.org/ubernostrum/django-contact-form/overview/).
